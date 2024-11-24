@@ -25,7 +25,7 @@ This repository tracks my journey of solving problems on LeetCode and other codi
 - [Reverse Linked List](./LinkedLists/ReverseLinkedList.java)
 
 ## LeetCode Profile
-You can view my LeetCode progress and problems solved on my profile: [LeetCode - Azhar](https://leetcode.com/your_username/).
+You can view my LeetCode progress and problems solved on my profile: [LeetCode - Azhar](https://leetcode.com/ajharh999/).
 
 ## My Coding Platforms
 - [LeetCode](https://leetcode.com)
