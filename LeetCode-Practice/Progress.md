@@ -1,5 +1,5 @@
 # Progress
-- Total Problems Solved: 100
-- Easy: 40
-- Medium: 50
-- Hard: 10
+- Total Problems Solved: 36
+- Easy: 17
+- Medium: 17
+- Hard: 2
