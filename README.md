@@ -11,9 +11,9 @@ This repository tracks my journey of solving problems on LeetCode and other codi
 - **Hard**: 2
 
 ### Languages Used:
+- C++
 - Java
 - Python
-- JavaScript
 
 ## Problem Categories
 
