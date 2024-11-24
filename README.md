@@ -5,10 +5,10 @@ This repository tracks my journey of solving problems on LeetCode and other codi
 
 ## Progress
 
-### Total Problems Solved: 120
-- **Easy**: 50
-- **Medium**: 60
-- **Hard**: 10
+### Total Problems Solved: 37
+- **Easy**: 18
+- **Medium**: 17
+- **Hard**: 2
 
 ### Languages Used:
 - Java
