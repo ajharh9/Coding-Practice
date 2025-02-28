@@ -2,6 +2,9 @@
 // Description: Given an array of integers nums and an integer target,
 // find two numbers such that they add up to a specific target number.
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
@@ -12,5 +15,6 @@ public class TwoSum {
             }
             map.put(nums[i], i);
         }
+                return nums;
     }
 }
